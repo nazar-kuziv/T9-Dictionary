@@ -12,7 +12,7 @@ A prefix tree data structure, also known as a trie, is utilized to store the dic
 ## Running the Program
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/llutsefer/T9-Dictionary.git
+   git clone https://github.com/nazar-kuziv/T9-Dictionary.git
    ```
 2. Ensure you have Python installed.
 3. Install the Tkinter library if you haven't already, using the command:
